@@ -18,6 +18,7 @@ The application uses LangChain with Google Gemini LLM to generate explanations i
 Consistent output
 Simplified explanations
 Logical breakdown of code flow
+
 🚀 Key Features
 🔍 Instant code-to-explanation conversion
 🌐 Multi-language support (Python, JavaScript, Java, C++, etc.)
